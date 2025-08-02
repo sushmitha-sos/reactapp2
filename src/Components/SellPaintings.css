@@ -1,0 +1,79 @@
+.heading-SellPainting {
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 500px;
+}
+
+.flex-container-SP {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid rgb(236, 233, 233);
+    margin: 10px 50px 10px 50px;
+}
+
+.flex-container-SP>div {
+    margin: 10px;
+    padding: 10px 10px 10px 10px;
+    font-size: 30px;
+}
+
+.googleImg {
+    width: 150px;
+    height: 70px;
+}
+
+.trustpilotImg {
+    width: 150px;
+    height: 70px;
+}
+
+.facebookImg {
+    width: 150px;
+    height: 70px;
+}
+
+.contactUs-style {
+    font-size: 30px;
+    text-align: center;
+}
+
+.flex-container-sellArt {
+    display: flex;
+    justify-content: space-around;
+    /*background-color: aqua;*/
+    height: 900px;
+    border: 1px solid rgb(248, 245, 245);
+    border-radius: 10px;
+    margin: 0px 20px 0px 20px;
+
+}
+
+.register-div {
+    background-color: rgba(21, 147, 115, 0.97);
+    margin: 200px 50px 250px 90px;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    border-radius: 5%;
+    width: 2500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+
+}
+
+.procedure-div {
+    /* background-color: rgb(196, 255, 237); */
+    margin: 5px 80px 100px 20px;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    width: 5000px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.divider {
+    border-left: 1px solid black;
+    display: block;
+    height: 880px;
+    margin: 10px 10px 0px 0px;
+    width: 1px;
+}

@@ -1,0 +1,137 @@
+  
+.flex-container-paintings{
+    padding-top: 100px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.flex-container-paintings > div{
+    margin: 10px 5px 10px 5px;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(89, 87, 87);
+}
+
+.flex-container-paintings > div :hover {
+    transform: scale(1.05);
+}
+
+.twentythreeImg{
+width: 280px;
+height: 290px;
+}
+.twentyfourImg{
+width: 280px;
+height: 290px;
+}
+.twentyfiveImg{
+width: 280px;
+height: 290px;
+}
+.twentysixImg{
+width: 280px;
+height: 290px;
+}
+.twentysevenImg{
+width: 280px;
+height: 290px;
+}
+
+.flex-container-paintingsS{
+    padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.flex-container-paintingsS > div{
+    margin: 10px 5px 10px 5px;
+  padding: 10px 10px 10px 10px;
+ font-size: 20px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(89, 87, 87);
+
+}
+
+.flex-container-paintingsS > div :hover {
+    transform: scale(1.05);
+}
+
+.twentyeightImg{
+width: 280px;
+height: 290px;
+}
+
+.twentynineImg{
+width: 280px;
+height: 290px;
+}
+
+.thirtyImg{
+width: 280px;
+height: 290px;
+}
+
+.thirtyoneImg{
+width: 280px;
+height: 290px;
+}
+
+.thirtytwoImg{
+width: 280px;
+height: 290px;
+}
+
+.thirtythreeImg {
+width: 280px;
+height: 290px;
+}
+
+.thirtyfourImg{
+width: 280px;
+height: 290px;
+}
+
+.thirtyfiveImg{
+  width: 280px;
+height: 290px;
+}
+
+.thirtysixImg{
+  width: 280px;
+height: 290px;
+}
+
+.thirtysevenImg{
+  width: 280px;
+height: 290px;
+}
+
+.thirtyeightImg{
+  width: 280px;
+height: 290px;
+}
+
+.thirtynineImg{
+  width: 280px;
+height: 290px;
+}
+
+.fortyImg{
+  width: 280px;
+height: 290px;
+}
+
+.fortyoneImg{
+  width: 280px;
+height: 290px;
+}
+
+.fortytwoImg{
+  width: 280px;
+height: 290px;
+}

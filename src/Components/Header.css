@@ -1,0 +1,44 @@
+.header-links{
+    padding: 16px 32px;
+    float: center;
+    background-color: rgb(233, 241, 248);
+    position: fixed;
+    width: 1515px;
+}
+
+h1{
+    display: inline;
+    text-decoration: none;
+}
+
+.header-title{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.header-navtabs{
+    text-decoration: none;
+    margin-left: 57px;
+    font-weight: 500;
+    font-size: large;
+}
+
+.header-navtabs-SP{
+text-decoration: none;
+    margin-left: 57px;
+    padding-right: 160px;
+    font-weight: 500;
+    font-size: large;
+
+}
+
+.header-navtabs-home{
+    margin-left: 100px;
+    
+}
+
+nav a {
+  margin-right: 16px;
+} 

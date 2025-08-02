@@ -1,0 +1,115 @@
+.flex-container-drawings{
+    padding-top: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex-container-drawings > div{
+    margin: 10px 5px 10px 5px;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(89, 87, 87);
+}
+
+.flex-container-drawings > div :hover {
+    transform: scale(1.05);
+}
+
+ .oneImg {
+width: 280px;
+height: 290px;
+ }
+
+ .twoImg{
+    width: 280px;
+height: 290px;
+ }
+
+ .threeImg{
+    width: 280px;
+height: 290px;
+ }
+
+ .fourImg{
+    width: 280px;
+height: 290px;
+ }
+
+ .fiveImg {
+    width: 280px;
+height: 290px;
+ }
+
+ .flex-container-drawingsS{
+    padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.flex-container-drawingsS > div{
+    margin: 10px 5px 10px 5px;
+  padding: 10px 10px 10px 10px;
+ font-size: 20px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(89, 87, 87);
+
+}
+
+.flex-container-drawingsS > div :hover {
+    transform: scale(1.05);
+}
+
+.sixImg{
+    width: 280px;
+height: 290px;
+}
+
+.sevenImg{
+    width: 280px;
+height: 290px;
+}
+
+.eightImg{
+    width: 280px;
+height: 290px;
+}
+
+.nineImg{
+    width: 280px;
+height: 290px;
+}
+
+.tenImg{
+      width: 280px;
+height: 290px;
+
+}
+
+.elevenImg{
+width: 280px;
+height: 290px;
+}
+
+.twelveImg{
+    width: 280px;
+height: 290px;
+}
+
+.thirteenImg{
+    width: 280px;
+height: 290px;
+}
+
+.fourteenImg{
+    width: 280px;
+height: 290px;
+}
+
+.fifteenImg{
+    width: 280px;
+height: 290px;
+}

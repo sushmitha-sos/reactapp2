@@ -1,0 +1,184 @@
+img {
+    height: 100vh;
+    width: 224vh;
+
+}
+
+i {
+    color: rgb(22, 22, 120);
+}
+
+.heading-div {
+    background-color: gray;
+    height: 3px;
+    width: 500px;
+
+
+}
+
+.headingClass {
+    font-weight: normal;
+    text-align: center;
+    color: "rgb(65, 64, 64)";
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-container>div {
+    margin: 20px;
+    padding: 10px 80px 10px 80px;
+    font-size: 30px;
+}
+
+.googleImg {
+    width: 150px;
+    height: 130px;
+}
+
+.trustpilotImg {
+    width: 150px;
+    height: 130px;
+}
+
+.facebookImg {
+    width: 150px;
+    height: 130px;
+}
+
+.flex-containerP {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-containerP>div {
+    margin: 10px;
+    padding: 4px;
+}
+
+.flex-containerP>div :hover {
+    transform: scale(1.08);
+}
+
+.img-container {
+    text-align: center;
+    border: 5px solid black;
+}
+
+.fifthImg {
+    width: 350px;
+    height: 400px;
+}
+
+
+.sixthImg {
+    width: 350px;
+    height: 400px;
+}
+
+.seventhImg {
+    width: 750px;
+    height: 400px;
+}
+
+.eighthImg {
+    width: 750px;
+    height: 400px;
+}
+
+.ninethImg {
+    width: 350px;
+    height: 400px;
+}
+
+.tenthImg {
+    width: 350px;
+    height: 400px;
+
+}
+
+.flex-container-buddha {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-container-buddha>div {
+    margin: 10px 5px 10px 5px;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(89, 87, 87);
+}
+
+.flex-container-buddha>div :hover {
+    transform: scale(1.05);
+}
+
+.buddhaOneImg {
+    width: 280px;
+    height: 290px;
+}
+
+.buddhaTwoImg {
+    width: 280px;
+    height: 290px;
+}
+
+.buddhaThreeImg {
+    width: 280px;
+    height: 290px;
+}
+
+.buddhaFourImg {
+    width: 280px;
+    height: 290px;
+}
+
+.buddhaFiveImg {
+    width: 280px;
+    height: 290px;
+}
+
+.flex-container-price {
+    padding-top: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-container-price>div {
+    margin: 10px 5px 10px 5px;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.flex-container-price>div :hover {
+    transform: scale(1.05);
+}
+
+.priceOneImg {
+    width: 200px;
+    height: 160px;
+    margin-left: 150px;
+}
+
+.priceTwoImg {
+    width: 200px;
+    height: 160px;
+}
+
+.priceThreeImg {
+    width: 200px;
+    height: 160px;
+}
+
+.priceFourImg {
+    width: 200px;
+    height: 160px;
+    margin-right: 150px;
+}

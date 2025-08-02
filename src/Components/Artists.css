@@ -1,0 +1,82 @@
+.select-div{
+    display: inline;
+}
+
+.flex-container-artists{
+     padding-top: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex-container-artists > div {
+    margin: 10px 5px 10px 5px;
+  padding: 10px 80px 10px 80px;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(89, 87, 87);
+
+}
+
+.eleventhImg{
+width: 200px;
+    height: 250px;
+    font-size: small;
+   
+}
+
+.twelthImg{
+   width: 200px;
+    height: 250px; 
+}
+  
+.thirteenthImg{
+    width: 200px;
+    height: 250px; 
+}
+
+.fourteenthImg{
+    width: 200px;
+    height: 250px;
+ 
+}
+
+.fifteenthImg{
+      width: 200px;
+    height: 250px;  
+}
+
+.sixteenthImg{
+      width: 200px;
+    height: 250px;  
+}
+
+.seventeenthImg{
+      width: 200px;
+    height: 250px;  
+}
+
+.eigthteenthImg{
+      width: 200px;
+    height: 250px;  
+}
+
+.nineteenthImg {
+    width: 200px;
+    height: 250px;  
+}
+
+.twentyImg{
+    width: 200px;
+    height: 250px;  
+}
+
+.twentyoneImg{
+    width: 200px;
+    height: 250px;  
+}
+
+.twentytwoImg{
+    width: 200px;
+    height: 250px;  
+}
